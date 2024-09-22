@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "mongodb": "^6.9.0"
+    "mongodb": "^6.9.0",
+    "run": "^1.5.0"
   }
 }
